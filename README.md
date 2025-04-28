@@ -1,2 +1,2 @@
-# M2AD.github.io
+# M2AD
 A new work
