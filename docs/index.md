@@ -39,7 +39,7 @@ If you use this dataset in your research, please cite the following paper:
 <div class="myWrapper" markdown="1" align="center">
 
 ## Ten Object Classes
-
+十张gif，每个gif包含两类照片
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:800px;">
 
@@ -57,17 +57,19 @@ If you use this dataset in your research, please cite the following paper:
 </div>
 </div>
 
-## Multi-Modal
+## Multi-View
 
 <div markdown="1" style="overflow-x:scroll;">
-<div markdown="1" style="min-width:600px;">
+<div markdown="1" style="min-width:800px;">
 
-| RGB                                                       | Depth                                                   | Normals                                                     |
-| --------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- |
-| ![Alt text](assets\images\multimodal\image_5.jpg "image") | ![Alt text](assets\images\multimodal\depth.jpg "depth") | ![Alt text](assets\images\multimodal\normals.jpg "normals") |
+| All spotlights                                        | Bottom spot                                           | Right spot                                            | Top spot                                              | Left spot                                             | Global light box                                      |
+| ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| ![Alt text](assets\images\multilight\image_0.jpg "0") | ![Alt text](assets\images\multilight\image_1.jpg "1") | ![Alt text](assets\images\multilight\image_2.jpg "2") | ![Alt text](assets\images\multilight\image_3.jpg "3") | ![Alt text](assets\images\multilight\image_4.jpg "4") | ![Alt text](assets\images\multilight\image_5.jpg "5") |
+
 
 </div>
 </div>
+
 
 ## Multi-Light
 
@@ -81,6 +83,8 @@ If you use this dataset in your research, please cite the following paper:
 
 </div>
 </div>
+
+## Overview
 
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:800px;">
