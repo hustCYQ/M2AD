@@ -42,23 +42,7 @@ If you use this dataset in your research, please cite the following paper:
 ## Data Acquisition
 
 
-
-
-
-
 ![Alt text](assets\images\multilight\image_0.jpg "0")
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -67,8 +51,8 @@ If you use this dataset in your research, please cite the following paper:
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:800px;">
 
-| Candy Cane                                                      | Chocolate Cookie                                                            | Chocolate Praline                                                             | Confetto                                                    | Gummy Bear                                                      |
-| --------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
+| Candy Cane      | Chocolate Cookie      | Chocolate Praline      | Confetto      | Gummy Bear      |
+| ------------------------------ | ------------------------------------------------ | ----------------------------------------- | --------------------------- | --------------- |
 | ![Alt text](assets\images\rgb_gifs\candy_cane.gif "candy cane") | ![Alt text](assets\images\rgb_gifs\chocolate_cookie.gif "chocolate cookie") | ![Alt text](assets\images\rgb_gifs\chocolate_praline.gif "chocolate_praline") | ![Alt text](assets\images\rgb_gifs\confetto.gif "confetto") | ![Alt text](assets\images\rgb_gifs\gummy_bear.gif "gummy_bear") |
 
 
