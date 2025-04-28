@@ -44,16 +44,11 @@ If you use this dataset in your research, please cite the following paper:
 
 
 
-<div markdown="1" style="overflow-x:scroll;">
-<div markdown="1" style="min-width:800px;">
-
-| All spotlights             | 
-| ----------------------------------------------------- |
-| ![Alt text](assets\images\multilight\image_0.jpg "0") |
 
 
-</div>
-</div>
+![Alt text](assets\images\multilight\image_0.jpg "0")
+
+
 
 
 
