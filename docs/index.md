@@ -7,10 +7,10 @@ layout: default
 <div class="hero has-text-centered" id="paper">
 <div class="myWrapper" markdown="1" align="left">
 
-**[The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization](https://arxiv.org/abs/2210.04570)**
+**[M2AD: XXXXX]()**
 
 ***Luca Bonfiglioli\*, Marco Toschi\*, Davide Silvestri, Nicola Fioraio, Daniele De Gregorio***<br>
-[Eyecan.ai](https://www.eyecan.ai/) *\* Equal contribution*
+Huazhong University of Science and Technology *\* Equal contribution*
 
 We present Eyecandies, a novel synthetic dataset for unsupervised anomaly detection and localization. Photo-realistic images of procedurally generated candies are rendered in a controlled environment under multiple lightning conditions, also providing depth and normal maps in an industrial conveyor scenario. We make available anomaly-free samples for model training and validation, while anomalous instances with precise ground-truth annotations are provided only in the test set. The dataset comprises ten classes of candies, each showing different challenges, such as complex textures, self-occlusions and specularities. Furthermore, we achieve large intra-class variation by randomly drawing key parameters of a procedural rendering pipeline, which enables the creation of an arbitrary number of instances with photo-realistic appearance. Likewise, anomalies are injected into the rendering graph and pixel-wise annotations are automatically generated, overcoming human-biases and possible inconsistencies.
 
