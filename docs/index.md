@@ -38,7 +38,7 @@ If you use this dataset in your research, please cite the following paper:
 
 
 
-## Multi-Light
+## Data Acquisition
 
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:800px;">
