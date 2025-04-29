@@ -26,12 +26,12 @@ To set up the MVP-PVLIP environment, follow one of the methods below:
 
 - Clone this repo:
   ```shell
-  git clone https://github.com/hustCYQ/MVP-PCLIP.git && cd MVP-PCLIP
+  git clone https://github.com/hustCYQ/M2AD.git && cd M2AD
   ```
 - Construct the experimental environment, follow these steps:
     ```shell
-  conda create --name ADer python=3.9
-  conda activate ADer
+  conda create --name M2AD_env python=3.9
+  conda activate M2AD_env
   pip install timm==0.8.15dev0 opencv-python==4.9.0.80 opencv-contrib-python==4.9.0.80 numpy==1.26 # not sure, but seems ADEval requires opencv-python==4.9.0.80  
   pip install thop seaborn mmselfsup pandas transformers openpyxl imgaug numba  tensorboard fvcore  Ninja ftfy scikit-learn einops 
   pip install git+https://gitcode.com/gh_mirrors/cl/CLIP
