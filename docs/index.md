@@ -131,11 +131,11 @@ If you use this dataset in your research, please cite the following paper:
 <div markdown="1" style="min-width:400px;">
 
 | Method  | Bird      | Car      | Cube     | Dice     | Doll    | Holder     | Motor      | Ring       | Teapot       | Tube        |
-| Header | Title | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this |
-| Header | Title | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this |
-| Header | Title | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this |
-
-
+| A |   |   |   |   |   |   |   |   |   |   |
+| B |   |   |   |   |   |   |   |   |   |   |
+| C |   |   |   |   |   |   |   |   |   |   |
+| D |   |   |   |   |   |   |   |   |   |   |
+| E |   |   |   |   |   |   |   |   |   |   |
 
 </div>
 </div>
