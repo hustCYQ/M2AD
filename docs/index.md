@@ -127,47 +127,16 @@ If you use this dataset in your research, please cite the following paper:
 
 <div class="hero" id="leaderboard" markdown="1">
 <div markdown="1" style="overflow-x: scroll;">
-| Syntax | Description | Test Text |
-| :--- | :----: | ---: |
-| Header | Title | Here's this |
-| Paragraph | Text | And more |
+| Method | Bird      | Car      | Cube     | Dice     | Doll    | Holder     | Motor      | Ring       | Teapot       | Tube        |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
+| Header | Title | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this |
+| Paragraph | Text | And more | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this | Here's this |
 
 <br>
 <div class="myWrapper" align="left" markdown="1">
 
 
     
-<div class="hero" id="leaderboard" markdown="1">
-<div markdown="1" style="overflow-x: scroll;">
-<table>
-    <tr>
-        <td style="min-width:250px"><b>Method</b></td>
-        <td style="min-width:85px"><b>Can. C.</b></td>
-        <td style="min-width:85px"><b>Cho. C.</b></td>
-        <td style="min-width:85px"><b>Cho. P.</b></td>
-        <td style="min-width:85px"><b>Confet.</b></td>
-        <td style="min-width:90px"><b>Gum. B.</b></td>
-        <td style="min-width:85px"><b>Haz. T.</b></td>
-        <td style="min-width:85px"><b>Lic. S.</b></td>
-        <td style="min-width:85px"><b>Lollip.</b></td>
-        <td style="min-width:85px"><b>Marsh.</b></td>
-        <td style="min-width:85px"><b>Pep. C.</b></td>
-        <td style="min-width:85px"><b>Avg.</b></td>
-    </tr>
-    {% for method in site.data.leaderboard %}
-        <tr>
-            <td>{{method.name}}</td>
-            {% for auc in method.aucs %}
-                <td>{{auc}}</td>
-            {% endfor %}
-            <td>{{method.avg_auc}}</td>
-        </tr>
-    {% endfor %}
-</table>
-</div>
-
-<br>
-<div class="myWrapper" align="left" markdown="1">
 
 ## Submit Your Results
 
