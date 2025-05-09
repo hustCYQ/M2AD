@@ -145,6 +145,9 @@ If you use this dataset in your research, please cite the following paper:
 
 ## Submit Your Results
 
+<div class="hero" id="leaderboard" markdown="1">
+<div markdown="1" style="overflow-x: scroll;">
+    
 Send us your results on the private test set so we can add your method to our leaderboard!
 
 To do so, send an e-mail to **info@eyecan.ai** with subject "Eyecandies results submission" and the following info:
