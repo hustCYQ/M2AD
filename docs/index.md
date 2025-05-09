@@ -69,13 +69,13 @@ If you use this dataset in your research, please cite the following paper:
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:100px;">
 
-| View: 0°                                        | View: 30°                                            | View: 60°                                             | View: 90°                                              | View: 120°                                             | View: 150° x                                      |
+| View-0°                                        | View-30°                                            | View-60°                                             | View-90°                                              | View-120°                                             | View-150° x                                      |
 | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | ![Alt text](assets\images\multilight\image_0.jpg "0") | ![Alt text](assets\images\multilight\image_1.jpg "1") | ![Alt text](assets\images\multilight\image_2.jpg "2") | ![Alt text](assets\images\multilight\image_3.jpg "3") | ![Alt text](assets\images\multilight\image_4.jpg "4") | ![Alt text](assets\images\multilight\image_5.jpg "5") |
 
 <!-- this space is essential -->
 
-| View: 180°                                         | View: 210°                                            | View: 240°                                             | View: 270°                                               | View: 300°                                              | View: 330°                                       |
+| View-180°                                         | View-210°                                            | View-240°                                             | View-270°                                               | View-300°                                              | View-330°                                       |
 | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | ![Alt text](assets\images\multilight\image_0.jpg "0") | ![Alt text](assets\images\multilight\image_1.jpg "1") | ![Alt text](assets\images\multilight\image_2.jpg "2") | ![Alt text](assets\images\multilight\image_3.jpg "3") | ![Alt text](assets\images\multilight\image_4.jpg "4") | ![Alt text](assets\images\multilight\image_5.jpg "5") |
 
@@ -83,19 +83,19 @@ If you use this dataset in your research, please cite the following paper:
 </div>
 
 
-## Multi-Light
+## Multi-Illumination
 
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:800px;">
 
-| Light: 1      | Light: 2      | Light: 3      | Light: 4      | Light: 5      |
+| Illumination-1      | Illumination-2      | Illumination-3      | Illumination-4      | Illumination-5      |
 | ------------------------------ | ------------------------------------------------ | ----------------------------------------- | --------------------------- | --------------- |
 | ![Alt text](assets\images\rgb_gifs\candy_cane.gif "candy cane") | ![Alt text](assets\images\rgb_gifs\chocolate_cookie.gif "chocolate cookie") | ![Alt text](assets\images\rgb_gifs\chocolate_praline.gif "chocolate_praline") | ![Alt text](assets\images\rgb_gifs\confetto.gif "confetto") | ![Alt text](assets\images\rgb_gifs\gummy_bear.gif "gummy_bear") |
 
 
 <!-- this space is essential -->
 
-| Light: 6      | Light: 7      | Light: 8      | Light: 9     | Light: 10   |
+| Illumination-6      | Illumination-7      | Illumination-8      | Illumination-9      | Illumination-10      |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | ![Alt text](assets\images\rgb_gifs\hazelnut_truffle.gif "hazelnut_truffle") | ![Alt text](assets\images\rgb_gifs\licorice_sandwich.gif "licorice_sandwitch") | ![Alt text](assets\images\rgb_gifs\lollipop.gif "lollipop") | ![Alt text](assets\images\rgb_gifs\marshmallow.gif "marshmallow") | ![Alt text](assets\images\rgb_gifs\peppermint_candy.gif "peppermint candy") |
 
@@ -107,14 +107,14 @@ If you use this dataset in your research, please cite the following paper:
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:800px;">
 
-| Candy Cane                                                        | Chocolate Cookie                                                              | Chocolate Praline                                                               | Confetto                                                      | Gummy Bear                                                        |
+| Bird      | Car      | Cube      | Dice      | Doll      |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------- |
 | ![Alt text](assets\images\light_gifs\candy_cane.gif "candy cane") | ![Alt text](assets\images\light_gifs\chocolate_cookie.gif "chocolate cookie") | ![Alt text](assets\images\light_gifs\chocolate_praline.gif "chocolate_praline") | ![Alt text](assets\images\light_gifs\confetto.gif "confetto") | ![Alt text](assets\images\light_gifs\gummy_bear.gif "gummy_bear") |
 
 
 <!-- this space is essential -->
 
-| Hazelnut Truffle                                                              | Licorice Sandwich                                                                | Lollipop                                                      | Marshmallow                                                         | Peppermint Candy                                                              |
+| Holder       | Motor          | Ring           | teapot           | Tube             |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | ![Alt text](assets\images\light_gifs\hazelnut_truffle.gif "hazelnut_truffle") | ![Alt text](assets\images\light_gifs\licorice_sandwich.gif "licorice_sandwitch") | ![Alt text](assets\images\light_gifs\lollipop.gif "lollipop") | ![Alt text](assets\images\light_gifs\marshmallow.gif "marshmallow") | ![Alt text](assets\images\light_gifs\peppermint_candy.gif "peppermint candy") |
 
