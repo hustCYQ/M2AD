@@ -145,8 +145,8 @@ If you use this dataset in your research, please cite the following paper:
 
 ## Submit Your Results
 
-<div class="hero" id="leaderboard" markdown="1">
-<div markdown="1" style="overflow-x: scroll;">
+<br>
+<div class="myWrapper" align="left" markdown="1">
     
 Send us your results on the private test set so we can add your method to our leaderboard!
 
