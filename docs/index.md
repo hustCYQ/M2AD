@@ -145,7 +145,6 @@ If you use this dataset in your research, please cite the following paper:
 
 ## Submit Your Results
 
-<br>
 <div class="myWrapper" align="left" markdown="1">
 
 
@@ -158,5 +157,4 @@ Please send an e-mail to **yuqicheng@hust.edu.cn** with subject "results of {You
 
 Feel free to ask us any questions!
 
-</div>
 </div>
