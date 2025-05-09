@@ -147,16 +147,14 @@ If you use this dataset in your research, please cite the following paper:
 
 <br>
 <div class="myWrapper" align="left" markdown="1">
-    
-Send us your results on the private test set so we can add your method to our leaderboard!
 
-To do so, send an e-mail to **info@eyecan.ai** with subject "Eyecandies results submission" and the following info:
 
-- The **name**/s of your method/s.
+Send us the performance of your method on our dataset, and we will add your results to our leaderboard!  
+
+Please send an e-mail to **yuqicheng@hust.edu.cn** with subject "results of {Your method name} on M2AD" and the following info:
+
+- The full **name**/s of your method/s.
 - A link to a published **paper** describing it/them.
-- A download link with your results for every proposed method, with predicted heatmaps for every test set sample. We will compute metrics on those heatmaps.
-
-Download the [template submission](https://drive.google.com/file/d/17qTSfqFesnb5BG6BdgegjWLv7bHKJJMs/view?usp=sharing) for more info on how to create your own and take a look at the [Eyecandies](https://github.com/eyecan-ai/eyecandies) repo for examples and tutorials. The dataset is formatted as a Pipelime underfolder, so take a look at [Pipelime](https://github.com/eyecan-ai/pipelime-python) as well!
 
 Feel free to ask us any questions!
 
