@@ -12,7 +12,7 @@ layout: default
 **[Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark]()**
 
 ***Yunkang Cao\*, Yuqi Cheng\*, Xiaohao Xu, Yiheng Zhang, Yihan Sun, Yuxiang Tan, Yuxin Zhang, Weiming Shen***<br>
-Huazhong University of Science and Technology *\* Equal contribution*
+Huazhong University of Science and Technology     *\* Equal contribution*
 
 The practical deployment of Visual Anomaly Detection (VAD) systems is hindered by their sensitivity to real-world imaging variations, particularly the complex interplay between viewpoint and illumination which drastically alters defect visibility. Current benchmarks largely overlook this critical challenge. We introduce **M**ulti-View **M**ulti-Illumination **A**nomaly **D**etection (***M<sup>2</sup>AD***), a new large-scale benchmark comprising 119,880 high-resolution images designed explicitly to probe VAD robustness under such interacting conditions. By systematically capturing 1,000 specimens across 10 categories using 12 synchronized views and 10 illumination settings (120 configurations total), ***M<sup>2</sup>AD*** enables rigorous evaluation. We establish two evaluation protocols: ***M<sup>2</sup>AD-Synergy*** tests the ability to fuse information across diverse configurations, and ***M<sup>2</sup>AD-Invariant*** measures single-image robustness amidst realistic view-illumination effects. Our extensive benchmarking shows that state-of-the-art VAD methods struggle significantly on ***M<sup>2</sup>AD***, demonstrating the profound challenge posed by view-illumination interplay. This benchmark serves as an essential tool for developing and validating VAD methods capable of overcoming real-world complexities.
 
@@ -45,8 +45,7 @@ If you use this dataset in your research, please cite the following paper:
 
 
 
-## Ten Object Classes / Twenty Sub-Object Classes
-十张gif，每个gif包含两类照片
+## Ten Object Classes
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:800px;">
 
