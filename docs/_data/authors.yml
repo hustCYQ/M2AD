@@ -1,15 +1,21 @@
-- name: Luca Bonfiglioli
-  email: luca.bonfiglioli@eyecan.ai
-  pic: assets\images\authors\bonfiglioli.jpg
-- name: Marco Toschi
-  email: marco.toschi@eyecan.ai
-  pic: assets\images\authors\toschi.jpg
-- name: Davide Silvestri
-  email: davide.silvestri@eyecan.ai
-  pic: assets\images\authors\silvestri.jpg
-- name: Nicola Fioraio
-  email: nicola.fioraio@eyecan.ai
-  pic: assets\images\authors\fioraio.jpg
-- name: Daniele De Gregorio
-  email: daniele.degregorio@eyecan.ai
-  pic: assets\images\authors\degregorio.jpg
+- name: Yunkang Cao
+  email: caoyunkang@ieee.org
+  pic: assets\images\authors\cyk.jpg
+- name: Yuqi Cheng
+  email: yuqicheng@hust.edu.cn
+  pic: assets\images\authors\cyq.jpg
+- name: Xiaohao Xu
+  email: xiaohaox@umich.edu
+  pic: assets\images\authors\xxh.jpg
+- name: Yiheng Zhang
+  email: yihengzhang@hust.edu.cn
+  pic: assets\images\authors\zyh.jpg
+- name: Yihan Sun
+  email: yihansun@hust.edu.cn
+  pic: assets\images\authors\syh.jpg
+- name: Yuxiang Tan
+  email: yuxiangtan@hust.edu.cn
+  pic: assets\images\authors\tyx.jpg
+- name: Yuxin Zhang
+  email: zyx\_hust@hust.edu.cn
+  pic: assets\images\authors\zyx.jpg
