@@ -5,7 +5,7 @@
 >
 > by [Yunkang Cao*](https://caoyunkang.github.io/), [Yuqi Cheng*](https://hustcyq.github.io/), [Xiaohao Xu](), [Yiheng Zhang](), [Yihan Sun](), [Yuxiang Tan](), [Yuxin Zhang](), [Weiming Shen](https://scholar.google.com/citations?user=FuSHsx4AAAAJ&hl=en),
 
-<--
+<!--
 
 ## Introduction 
 Detecting anomalies within point clouds is crucial for various industrial applications, but traditional unsupervised methods face challenges due to data acquisition costs, early-stage production constraints, and limited generalization across product categories. To overcome these challenges, we introduce the Multi-View Projection (MVP) framework, leveraging pre-trained Vision-Language Models (VLMs) to detect anomalies. Specifically, MVP projects point cloud data into multi-view depth images, thereby translating point cloud anomaly detection into image anomaly detection. Following zero-shot image anomaly detection methods, pre-trained VLMs are utilized to detect anomalies on these depth images. Given that pre-trained VLMs are not inherently tailored for zero-shot point cloud anomaly detection and may lack specificity, we propose the integration of learnable visual and adaptive text prompting techniques to fine-tune these VLMs, thereby enhancing their detection performance. Extensive experiments on the MVTec 3D-AD and Real3D-AD demonstrate our proposed MVP framework's superior zero-shot anomaly detection performance and the prompting techniques' effectiveness. Real-world evaluations on automotive plastic part inspection further showcase that the proposed method can also be generalized to practical unseen scenarios.
