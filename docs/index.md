@@ -133,12 +133,12 @@ If you use this dataset in your research, please cite the following paper:
 <div markdown="1" style="overflow-x:scroll;">
 <div markdown="1" style="min-width:400px;">
 
-| Method  | Bird      | Car      | Cube     | Dice     | Doll    | Holder     | Motor      | Ring       | Teapot       | Tube        |
-| A |   |   |   |   |   |   |   |   |   |   |
-| B |   |   |   |   |   |   |   |   |   |   |
-| C |   |   |   |   |   |   |   |   |   |   |
-| D |   |   |   |   |   |   |   |   |   |   |
-| E |   |   |   |   |   |   |   |   |   |   |
+| Method     | Bird            | Car             | Cube            | Dice            | Doll            | Holder          | Motor           | Ring            | Teapot          | Tube            | Mean            |
+| CDO        | 70.6/74.1/90.1  | 76.8/65.2/77.9  | 72.2/64.9/72.4  | 93.0/82.0/82.2  | 69.9/64.0/74.4  | 96.0/78.1/72.9  | 83.7/69.7/94.0  | 91.6/84.9/88.8  | 92.6/79.8/92.6  | 96.5/81.8/93.7  | 84.3/74.4/83.9  |
+| RD++       |   |   |   |   |   |   |   |   |   |   |
+| MSFlow     |   |   |   |   |   |   |   |   |   |   |
+| Dinomaly   |   |   |   |   |   |   |   |   |   |   |
+| INP-Former |   |   |   |   |   |   |   |   |   |   |
 
 </div>
 </div>
