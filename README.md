@@ -114,7 +114,14 @@ If M2AD aids your research, please cite:
   author={Cao, Yunkang and Cheng, Yuqi and Xu, Xiaohao and Zhang, Yiheng and Sun, Yihan and Tan, Yuxiang and Zhang, Yuxin and Huang, Xiaonan and Shen, Weiming},  
   journal={arXiv preprint arXiv:2505.10996},  
   year={2025}  
-}  
+}
+
+@inproceedings{M2AD,
+    title={Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark},
+    author={Cao, Yunkang and Cheng, Yuqi and Zhang, Yuxin and Xu, Xiaohao and Zhang, Yiheng and Sun, Yihan and Tan, Yuxiang and Huang, Xiaonan and Huang, Chao and Shen, Weiming},
+    booktitle={Pattern Recognition},
+    year={2026},
+}
 ```  
 
 ## Contact
