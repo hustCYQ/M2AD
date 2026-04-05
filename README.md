@@ -3,7 +3,7 @@
 
 
 > 📚 [**Paper**](https://arxiv.org/abs/2505.10996) • 🏠 [**Homepage**](https://hustcyq.github.io/M2AD/)  
-> by [Yunkang Cao*](https://caoyunkang.github.io/), [Yuqi Cheng*](https://hustcyq.github.io/), [Yuxin Zhang](), [Xiaohao Xu](), [Yiheng Zhang](), [Yuxiang Tan](), Xiaonan Huang(), Chao Huang(), [Weiming Shen](https://scholar.google.com/citations?user=FuSHsx4AAAAJ&hl=en)
+> by [Yunkang Cao*](https://caoyunkang.github.io/), [Yuqi Cheng*](https://hustcyq.github.io/), [Yuxin Zhang](), [Xiaohao Xu](), [Yiheng Zhang](), [Yuxiang Tan](), [Xiaonan Huang](), [Chao Huang](), [Weiming Shen](https://scholar.google.com/citations?user=FuSHsx4AAAAJ&hl=en)
 
 ## 🚀 Updates  
 We're committed to open science! Here's our progress:  
